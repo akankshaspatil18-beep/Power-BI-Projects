@@ -60,9 +60,9 @@ The dataset represents ad campaign data modeled after Meta’s ad structure with
 
 Tool / Technology	Purpose
 🧮 Power BI	Data modeling, visualization, DAX calculations
-📘 Excel	Data cleaning and initial exploration
+📘 Excel Data cleaning and initial exploration
 🧩 DAX	Measure creation for KPIs and calculated fields
-📊 Data Modeling	Star schema design for analytical efficiency
+📊 Data Modeling Star schema design for analytical efficiency
 
 🧾 Outcome
 
