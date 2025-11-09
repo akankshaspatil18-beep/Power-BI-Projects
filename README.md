@@ -5,7 +5,7 @@
 📖 Project Overview
 
 This project focuses on analyzing the performance of Meta (Facebook & Instagram) advertising campaigns using Power BI.
-It provides a complete funnel analysis — from Impressions → Clicks → Engagements → Conversions — and delivers insights into audience behavior, ad performance, and ROI optimization.
+It provides a complete funnel analysis from Impressions → Clicks → Engagements → Conversions — and delivers insights into audience behavior, ad performance, and ROI optimization.
 
 🎯 Objectives
 	•	Measure and visualize ad campaign performance across multiple dimensions.
